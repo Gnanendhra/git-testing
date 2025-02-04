@@ -1,1 +1,2 @@
 "First line in second text file"
+"Second line in first text file"
